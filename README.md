@@ -2,9 +2,10 @@
 
 Agregando una línea de operación 2025_001
 
-Agregando una línea de operación 2025_004
-
 Se agrega una nueva instruccion en el readme 
+
+Se agrega una nueva instruccion en el readme  para la tarea asignada
+
 Tercer y último trabajo práctico realizado para el curso _Desarrollo Web Fullstack con Java_, dictado por PoloTic y Silicon Misiones.
 
 El trabajo consistió en la construcción de una aplicación java web que listara, registrara, modificara y eliminara las diferentes entidades de una agencia de turismo.
